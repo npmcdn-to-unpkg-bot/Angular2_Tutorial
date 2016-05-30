@@ -2,7 +2,9 @@
 .classpath
 .metadata
 .project
-.idea/
+.idea
+node_modules
+typings
 .svn/
 *.iml
 target/
